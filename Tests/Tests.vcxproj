@@ -89,7 +89,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>E:\Learning\EffectiveCPP\3rdParty\Gtest\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>E:\Learning\EffectiveCPP\EffCPP\Chapter6;E:\Learning\EffectiveCPP\3rdParty\Gtest\include</AdditionalIncludeDirectories>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
       <TreatWarningAsError>true</TreatWarningAsError>
@@ -108,7 +108,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>E:\Learning\EffectiveCPP\3rdParty\Gtest\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>E:\Learning\EffectiveCPP\EffCPP\Chapter6;E:\Learning\EffectiveCPP\3rdParty\Gtest\include</AdditionalIncludeDirectories>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
     </ClCompile>
     <Link>
@@ -127,7 +127,7 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>E:\Learning\EffectiveCPP\3rdParty\Gtest\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>E:\Learning\EffectiveCPP\EffCPP\Chapter6;E:\Learning\EffectiveCPP\3rdParty\Gtest\include</AdditionalIncludeDirectories>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
     </ClCompile>
     <Link>
@@ -148,7 +148,7 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>E:\Learning\EffectiveCPP\3rdParty\Gtest\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>E:\Learning\EffectiveCPP\EffCPP\Chapter6;E:\Learning\EffectiveCPP\3rdParty\Gtest\include</AdditionalIncludeDirectories>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
     </ClCompile>
     <Link>
