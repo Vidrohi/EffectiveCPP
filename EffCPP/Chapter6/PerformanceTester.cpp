@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "NonPOD.h"
 #include "PerformanceTester.h"
 

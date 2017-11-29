@@ -19,6 +19,9 @@
     <Filter Include="Source Files\Chapter6">
       <UniqueIdentifier>{4d0e735f-c4b4-46b0-a0a4-d4c424044659}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Chapter7">
+      <UniqueIdentifier>{8976955c-ae45-4b19-b944-8c580d90906a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -36,6 +39,15 @@
     <ClInclude Include="..\Chapter6\PerformanceTester.h">
       <Filter>Source Files\Chapter6</Filter>
     </ClInclude>
+    <ClInclude Include="..\Chapter7\Heap.h">
+      <Filter>Source Files\Chapter7</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Chapter7\MemoryManager.h">
+      <Filter>Source Files\Chapter7</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Chapter7\HeapFactory.h">
+      <Filter>Source Files\Chapter7</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -49,6 +61,15 @@
     </ClCompile>
     <ClCompile Include="..\Chapter6\NonPOD.cpp">
       <Filter>Source Files\Chapter6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Chapter7\MemoryManager.cpp">
+      <Filter>Source Files\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Chapter7\HeapFactory.cpp">
+      <Filter>Source Files\Chapter7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Chapter7\Heap.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
